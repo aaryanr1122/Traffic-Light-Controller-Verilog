@@ -26,12 +26,12 @@ GREEN → YELLOW → RED → GREEN → ...
 
 ### FSM Design
 
-![FSM Design](fsm_design1.png)
-![FSM Design](fsm_design.png)
+![FSM Design](fsm_design1.png.png)
+![FSM Design](fsm_design.png.png)
 
 ### Simulation Output
 
-![Simulation Output](simulation_output1.png)
+![Simulation Output](simulation_output1.png.png)
 
 ## Tools Used
 
